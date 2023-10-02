@@ -2,4 +2,4 @@
 hackcog 
 2023 project
 <br>
-Author-Jitin Kumar Chak
+Author-Jitin Kumar Chak (hackcog)
